@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/91ce7a24-1b44-48a8-97b8-5cb21fd7730a/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/chondaihoc"
+}

@@ -15,15 +15,19 @@
     "react-dom": "^16.8.1",
     "react-facebook-login": "^4.1.1",
     "react-flip-move": "^3.0.3",
+    "react-icons": "^3.5.0",
     "react-image": "^2.0.0",
+    "react-image-lightbox": "^5.1.0",
     "react-loadable": "^5.5.0",
+    "react-loading": "^2.0.3",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.4",
     "react-slideshow-image": "^1.1.2",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "secure-ls": "^1.2.5"
+    "secure-ls": "^1.2.5",
+    "sweetalert": "^2.1.2"
   },
   "scripts": {
     "start": "node server.js",
