@@ -1,1 +1,12 @@
-{ "BACKEND_URL": "http://localhost:52069" }
+{
+    "BACKEND_URL": "http://localhost:52069",
+    "ADMIN_URL": "http://localhost:58467",
+    "AVATAR_PATH": "/avatar/name",
+    "UNIVERSITY_LOGO_PATH": "/UserData/Logo/name",
+    "UNIVERSITY_IMAGE_PATH": "/UserData/University/id/name",
+    "BLOG_THUMBNAIL_PATH": "/UserData/BlogThumbnail/name",
+    "BLOG_IMAGE_PATH": "/Images/images/name",
+    "ADS_PATH": "/ads/name",
+    "CDN_URL": "https://unisec.blob.core.windows.net",
+    "MOBILE_SCHEME_URI": "chondaihoc://chondaihoc_native_app"
+}
